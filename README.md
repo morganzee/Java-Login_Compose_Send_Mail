@@ -1,3 +1,3 @@
 # ARM_Technical_Assessment
-This is an interview assessment to automate an email using selenium web driver, by the sender to the sender showing an assertion 
+Automate an email using selenium web driver, by the sender to send the mail to the sender showing an assertion 
 
